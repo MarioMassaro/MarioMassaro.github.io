@@ -17,5 +17,7 @@ En este proyecto creo una red neuronal con deep learning para predecir palabras 
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/colega.JPG" alt="">
 </figure> 
 
-###Este notebook se puede encontrar en el apartado de mi git Sordo_Mudo:
+Todos los procedimientos se pueden descargar desde mi repositorio, si quieres intentarlo por tu cuenta los datos utilizados para el train y test se pueden encontrar en el kaggle "que dices colega?", si necesitas el link puedes encontrarlo en el repositorio.
+
+### Este notebook se puede encontrar en el apartado de mi git Sordo_Mudo:
 	-https://github.com/MarioMassaro/Notebooks
