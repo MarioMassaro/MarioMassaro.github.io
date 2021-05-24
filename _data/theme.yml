@@ -21,7 +21,7 @@ t:
   posts: "Publicaciones"
   page: "Page"
   of: "of"
-  min_read: "Tiempo de lectura"
+  min_read: "min de lectura"
   present: "Present"
 
 # Google Fonts
