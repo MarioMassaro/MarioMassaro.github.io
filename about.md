@@ -9,11 +9,11 @@ Vivo en España, Madrid, he estudiado Big Data, Data Science, Coaching y Marketi
 
 ### Tengo como bases para estos proyectos:
 
-- python y sql
+- Python y SQL
 - Creacion, Limpieza y Obtencion de datos
-- visualisacion de datos, graficas
-- machine learning
-- deep learning
+- Visualisacion de datos, graficas
+- Machine learning
+- Deep learning
 - AMW y CLOUD
 - Web scraping
 - uso y creacion de API"s

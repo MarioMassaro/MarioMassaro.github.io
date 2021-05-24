@@ -28,3 +28,4 @@ Me vino la necesidad de crear mi propia guia cuando intente hacer mi proyecto y 
  
 Para esta guia en el tratamiento de imagenes utilizamos Roboflow, esta pagina facilita bastante todo el proceso y te ayuda hasta a descargar el formato de las imagenes en formato Yolov5, que esta de mas decir que nos facilita aun mas la creacion de nuestro modelo, por lo que queria darle un apartado especial a esta maravillosa pagina.
 
+  - https://github.com/MarioMassaro/Object-Deteccion-With-Yolo

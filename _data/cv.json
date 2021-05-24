@@ -98,14 +98,14 @@
       "name": "EDA",
       "publisher": "Mario",
       "releaseDate": "2021-04-04",
-      "website": "https://en.rhy.es",
+      "website": "https://mariomassaro.github.io/post%20formats/2021/03/14/EDA.html",
       "summary": "Proyecto de limpieza de datos, teniendo datos mal creados, limpiarlos y demostrar una teoria utilizando estadistica y visualizacion."
     },
     {
       "name": "MACHINE LEARNING",
       "publisher": "Mario",
       "releaseDate": "2021-05-05",
-      "website": "https://en.rhy.es",
+      "website": "https://mariomassaro.github.io/post%20formats/2021/05/14/machine-learning.html",
       "summary": "Creacion de un proyecto para deteccion de objetos a tiempo real, funciona con imagenes, videos e implemente una funcion personal para utilizarla con webcam"
     },{
       "name": "BATTLESHIP",
