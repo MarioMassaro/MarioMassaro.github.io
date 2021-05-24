@@ -13,8 +13,8 @@ En este proyecto creo una red neuronal con deep learning para predecir palabras 
 
 <!--more-->
 
-<figure style="width: 900px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/colega.jpg" alt="">
+<figure style="width: 600px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/colega.JPG" alt="">
 </figure> 
 
 ###Este notebook se puede encontrar en el apartado de mi git Sordo_Mudo:
