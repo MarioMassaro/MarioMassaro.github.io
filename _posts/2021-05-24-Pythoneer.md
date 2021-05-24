@@ -19,7 +19,7 @@ tags:
 
 ### Esta libreria fue creada para facilitar el proceso de limpieza de datos y su visualizacion, para instalarla utilizamos "pip install pythoneer"
 
-####esta libreria utiliza por detras:
+#### esta libreria utiliza por detras:
 
 	-pandas
 	-numpy
@@ -29,7 +29,7 @@ tags:
 	-scipy
 	-sklearn
 
-####La documentacion completa esta en mi repositorio de git:
+#### La documentacion completa esta en mi repositorio de git:
     -https://github.com/MarioMassaro/Pythonners-Proyecto-Conjunto
 
-####De ser necesario se me puede encontrar al final de la descripcion como uno de los autores, junto con mi perfil de linkedin
+#### De ser necesario se me puede encontrar al final de la descripcion como uno de los autores, junto con mi perfil de linkedin
