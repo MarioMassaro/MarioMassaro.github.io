@@ -32,13 +32,13 @@ El dataframe original son solo 2 columnas, la ubicacion de la imagen y el target
 
 Tambien para aumentar las probabilidades de aprendisaje usamos un generador de imagenes, lo que modifica la misma imagen de formas distintas para crear mas contenido de entrenamiento.
 
-<figure style="width: 300px">
+<figure style="width: 600px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/generador-extra.JPG" alt="">
 </figure>
 
 y al momento de tenerlo todo dividido y tratado pasamos a crear nuestra propia red neuronal con keras y 29 capas de salida ya que habian 29 targets en el dataframe original.
 
- <figure style="width: 300px">
+ <figure style="width: 900px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/red-neuronal.JPG" alt="">
 </figure>
 
