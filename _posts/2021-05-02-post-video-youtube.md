@@ -7,6 +7,8 @@ tags:
 last_modified_at: 2021-05-23T15:33:37-04:00
 ---
 
+Este es un video en el que se explica un modelo de aprendisaje por refuerzo, fue publicado por Two Minute Papers, un canal de youtube bastante interesante.
+
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="900" height="506" src="https://www.youtube.com/embed/Lu56xVlZ40M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
