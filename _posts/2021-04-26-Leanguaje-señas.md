@@ -12,7 +12,7 @@ tags:
 En este proyecto creo una red neuronal con deep learning para predecir palabras a travez de imagenes con lenguaje de señas. Este fue una de mis competiciones de Kaggle en la que quede de segundo y aqui comparto su codigo.
 
 <figure style="width: 600px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/señas.JPG" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/señas.jpg" alt="">
 </figure> 
 
 <!--more-->
