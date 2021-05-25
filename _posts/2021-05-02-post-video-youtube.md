@@ -1,5 +1,6 @@
 ---
 title: "Inteligencia Artificial, jugando al escondite"
+excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
 tags:
@@ -12,6 +13,8 @@ Este es un video en el que se explica un modelo de aprendisaje por refuerzo, fue
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="900" height="506" src="https://www.youtube.com/embed/Lu56xVlZ40M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<!--more-->
 
 El video principalmente trata de un modelo de machine learning que va aprendiendo por refuerzo, inicia perdiendo siempre hasta millones de intentos despues cuando aprende como bloquear las entradas, millones de intentos despues la otra IA logra pasar por encima de las paredes con la rampa, hasta billones de intentos despues puedes ver como refinan sus estrategias, logran encontrar fallos en el mapa, logran lanzar bloques fuera del mapa y el aprendisaje nunca para. 
 
