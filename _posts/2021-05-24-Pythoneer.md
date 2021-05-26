@@ -36,7 +36,7 @@ Algunas funciones como las de machine learning siguen en desarrollo pero las fun
 primero debemos instalarla e importarla
 
 <figure style="width: 600px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-1.JPG" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pytoneer-1.JPG" alt="">
 </figure> 
 
 observamos nuestro dataframe y vemos como esta compuesto y que fallos tiene
