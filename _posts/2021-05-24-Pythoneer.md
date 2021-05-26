@@ -36,19 +36,19 @@ Algunas funciones como las de machine learning siguen en desarrollo pero las fun
 primero debemos instalarla e importarla
 
 <figure style="width: 600px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-1.jpeg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-1.JPG" alt="">
 </figure> 
 
 observamos nuestro dataframe y vemos como esta compuesto y que fallos tiene
 
 <figure style="width: 600px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-2.jpeg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-2.JPG" alt="">
 </figure> 
 
 como podemos ver tiene dos columnas vacias y otras dos columnas con menos de 1/3 del contenido que deberia tener. Usemos una de las funciones basicas de nuestra libreria para hacer una limpieza rapida y ver como queda el dataframe anterior.
 
 <figure style="width: 600px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-3.jpeg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-3.JPG" alt="">
 </figure> 
 
 completamente limpio y listo para usar, es una funcion un poco fuerte o de uso rapido, no es recomendable usar esa funcion para un trabajo detallado pero para este ejemplo entra perfectamente.
@@ -56,13 +56,13 @@ completamente limpio y listo para usar, es una funcion un poco fuerte o de uso r
 Probemos otra funcion una de visualizacion esta vez. 
 
 <figure style="width: 600px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-4.jpeg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-4.JPG" alt="">
 </figure> 
 
 ahora veamos el resultado de poner esta funcion simple con la unica variable del dataframe, tiene muchas otras pero como dije mantengamoslo simple en esta demostracion.
 
 <figure style="width: 600px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-5.jpeg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-5.JPG" alt="">
 </figure> 
 
 con esta pequeña funcion podemos rapidamente la relacion entre la variables contenidas en el dataframe sin mucho esfuerzo, ahora si utilizaramos otras variables podriamos detallarlo un poco mas y hacerlo mucho mas preciso. Esa es la utilidad de esta libreria y aun le queda bastante tiempo para mejorias que haremos mientras las vayamos necesitando.
