@@ -41,7 +41,7 @@ primero debemos instalarla e importarla
 
 observamos nuestro dataframe y vemos como esta compuesto y que fallos tiene
 
-<figure style="width: 600px">
+<figure style="width: 400px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-2.JPG" alt="">
 </figure> 
 
@@ -55,13 +55,13 @@ completamente limpio y listo para usar, es una funcion un poco fuerte o de uso r
 
 Probemos otra funcion una de visualizacion esta vez. 
 
-<figure style="width: 600px">
+<figure style="width: 800px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-4.JPG" alt="">
 </figure> 
 
 ahora veamos el resultado de poner esta funcion simple con la unica variable del dataframe, tiene muchas otras pero como dije mantengamoslo simple en esta demostracion.
 
-<figure style="width: 600px">
+<figure style="width: 400px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-5.JPG" alt="">
 </figure> 
 
