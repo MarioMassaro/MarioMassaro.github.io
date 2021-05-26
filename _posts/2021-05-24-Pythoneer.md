@@ -51,9 +51,9 @@ como podemos ver tiene dos columnas vacias y otras dos columnas con menos de 1/3
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-3.JPG" alt="">
 </figure> 
 
-completamente limpio y listo para usar, es una funcion un poco fuerte o de uso rapido, no es recomendable usar esa funcion para un trabajo detallado pero para este ejemplo entra perfectamente.
+completamente limpio y listo para usar, es una funcion un poco fuerte o de uso rapido, no es recomendable usar esa funcion para un trabajo detallado pero para este ejemplo entra perfectamente, elimina las columnas con menos de 30% de contenido por defecto, pero ese valor se le puede poner a mano para hacerla mas detallada.
 
-Probemos otra funcion una de visualizacion esta vez. 
+#### Probemos otra funcion una de visualizacion esta vez. 
 
 <figure style="width: 800px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pythoneer-4.JPG" alt="">
