@@ -108,11 +108,11 @@
       "website": "https://mariomassaro.github.io/post%20formats/2021/05/14/machine-learning.html",
       "summary": "Creacion de un proyecto para deteccion de objetos a tiempo real, funciona con imagenes, videos e implemente una funcion personal para utilizarla con webcam"
     },{
-      "name": "BATTLESHIP",
+      "name": "PYTHONEER",
       "publisher": "Mario",
-      "releaseDate": "2021-05-05",
-      "website": "https://en.rhy.es",
-      "summary": "Una practica de python creando un juego de Battleship desde cero con python"
+      "releaseDate": "2021-05-14",
+      "website": "https://mariomassaro.github.io/post%20formats/2021/05/24/Pythoneer.html",
+      "summary": "Mi propia libreria para Data Science"
     }
   ],
   "skills": [
