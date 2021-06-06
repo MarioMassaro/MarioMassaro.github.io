@@ -9,7 +9,7 @@ tags:
   - standard
 ---
 
-# Pythoneer "Nuestra librearia dedicada a la Ciencia de Datos"
+Pythoneer "Nuestra librearia dedicada a la Ciencia de Datos"
 
 <figure style="width: 600px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pytho.jpeg" alt="">
