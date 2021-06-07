@@ -9,34 +9,34 @@ tags:
   - standard
 ---
 
-En este proyecto creo una red neuronal con deep learning para predecir palabras a traves de imagenes con lenguaje de señas. Este fue una de mis competiciones de Kaggle en la que quede de segundo y aqui comparto su codigo.
+En este proyecto creo una red neuronal con deep learning para predecir palabras a través de imágenes con lenguaje de señas. Este fue una de mis competiciones de Kaggle en la que quede de segundo y aquí comparto su código.
 
 <figure style="width: 400px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/señas.jpg" alt="">
 </figure> 
 
 <!--more-->
-## Con una precision del 90% como podran ver.
+## Con una precisión del 90% como podrán ver.
 
 <figure style="width: 600px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/colega.JPG" alt="">
 </figure> 
 
-Todos los procedimientos se pueden descargar desde mi repositorio, si quieres intentarlo por tu cuenta los datos utilizados para el train y test se pueden encontrar en el kaggle "que dices colega?", si necesitas el link puedes encontrarlo en el repositorio.
+TTodos los procedimientos se pueden descargar desde mi repositorio, si quieres intentarlo por tu cuenta los datos utilizados para el train y test se pueden encontrar en el kaggle "que dices colega?", si necesitas el link puedes encontrarlo en el repositorio.
 
-El dataframe original son solo 2 columnas, la ubicacion de la imagen y el target o significado de la seña.
+El dataframe original son solo 2 columnas, la ubicación de la imagen y el target o significado de la seña.
 
 <figure style="width: 300px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/señas-df-1.JPG" alt="">
 </figure> 
 
-Tambien para aumentar las probabilidades de aprendisaje usamos un generador de imagenes, lo que modifica la misma imagen de formas distintas para crear mas contenido de entrenamiento.
+También para aumentar las probabilidades de aprendizaje usamos un generador de imágenes, lo que modifica la misma imagen de formas distintas para crear más contenido de entrenamiento.
 
 <figure style="width: 600px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/generador-extra.JPG" alt="">
 </figure>
 
-y al momento de tenerlo todo dividido y tratado pasamos a crear nuestra propia red neuronal con keras y 29 capas de salida ya que habian 29 targets en el dataframe original.
+Y al momento de tenerlo todo dividido y tratado pasamos a crear nuestra propia red neuronal con keras y 29 capas de salida, ya que habían 29 targets en el dataframe original.
 
  <figure style="width: 900px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/red-neuronal.JPG" alt="">
